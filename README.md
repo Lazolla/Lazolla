@@ -19,7 +19,7 @@ I'm a recent BSc Computer Science and Mathematics graduate.I am passionate about
 When I'm not working with data and busy enhancing my Portifolio, I enjoy listening to Pop Music,reading books and playing tennis.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://lazolla.github.io/Lazollahttps.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Lazolla.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
