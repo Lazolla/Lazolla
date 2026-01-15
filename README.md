@@ -29,7 +29,9 @@ When I'm not working with data and busy enhancing my Portifolio, I enjoy listeni
 ## 🌱 Currently Learning 
 
 - Advancing Java Programming Skills
-- Azure
+- Azure 
+- R
+  
 
 ## 🛠️ Technical Skillset
 
