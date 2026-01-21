@@ -24,6 +24,7 @@ When I'm not working with data and busy enhancing my Portifolio, I enjoy listeni
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Data Professional Survey Breakdown in Power BI
+- **Project B:** SA's Main budget: Revenue, expenditure, budget balance and financing; 2001/02 to 2025/26
   
 
 ## 🌱 Currently Learning 
