@@ -20,6 +20,7 @@ When I'm not working with data and busy enhancing my Portifolio, I enjoy listeni
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Lazolla.github.io/)
+### [Mining Ladywood Dashboard](https://vercel.com/geo-dashboard/geo-insight-garden)
       
 ## 🔭 What I'm Currently Working On 
 
